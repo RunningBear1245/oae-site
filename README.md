@@ -5,9 +5,12 @@ Static MVP site for the Orlando Artisan Events ecosystem.
 ## Cloudflare Pages
 
 - Framework preset: `None`
-- Build command: leave blank
-- Build output directory: `/`
+- Build command: leave blank for Pages, or `npx wrangler deploy` for Workers static assets
+- Build output directory: `public`
 - Production branch: `main`
+
+This repo includes `wrangler.jsonc` so Cloudflare Workers static asset deployments
+serve only the `public/` directory. Do not deploy from the repository root.
 
 ## Routes
 
