@@ -1,20 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
-  <title id="title">Orlando Artisan Events orange blossom mark</title>
-  <desc id="desc">A simple orange with leaves and an orange blossom for Orlando Artisan Events.</desc>
-  <rect width="240" height="240" fill="none"/>
-  <circle cx="104" cy="128" r="54" fill="#F15A24"/>
-  <circle cx="88" cy="110" r="10" fill="#E89B3C" opacity=".72"/>
-  <path d="M121 64c22-28 52-31 77-19-11 28-35 45-72 38z" fill="#1F6B4A"/>
-  <path d="M126 70c19-8 39-14 62-20" fill="none" stroke="#A7B88C" stroke-width="5" stroke-linecap="round"/>
-  <path d="M105 61c-7-32 7-55 31-70 17 26 13 54-16 79z" fill="#0F3D2E" transform="translate(0 28)"/>
-  <g transform="translate(146 130)">
-    <circle cx="0" cy="0" r="10" fill="#E89B3C"/>
-    <ellipse cx="0" cy="-30" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3"/>
-    <ellipse cx="0" cy="30" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3"/>
-    <ellipse cx="-28" cy="-8" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(-72 -28 -8)"/>
-    <ellipse cx="28" cy="-8" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(72 28 -8)"/>
-    <ellipse cx="-18" cy="23" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(36 -18 23)"/>
-    <ellipse cx="18" cy="23" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(-36 18 23)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900" role="img" aria-labelledby="title desc">
+  <title id="title">OAE blossom sparkle mark vector</title>
+  <desc id="desc">Orange blossom with leaves and small gold sparkle accents.</desc>
+  <defs>
+    <style>.leaf{fill:#315f36}.leaf2{fill:#4c7b45}.gold{fill:#d79a29}.petal{fill:#fff0d0}.line{fill:none;stroke:#dfbd78;stroke-width:6;stroke-linecap:round}</style>
+  </defs>
+  <path d="M270 425C149 408 69 344 30 235c132-19 239 17 321 108-17 39-44 66-81 82Z" class="leaf"/>
+  <path d="M724 421c77-91 176-127 296-108-41 110-118 176-231 198-43-19-65-49-65-90Z" class="leaf2"/>
+  <path d="M376 279c-68-91-82-187-40-289 110 53 171 135 182 247-40 36-87 50-142 42Z" class="leaf2"/>
+  <path d="M381 630c-96 56-195 56-296 0 79-85 172-117 280-97 25 28 30 60 16 97Z" class="leaf"/>
+  <path d="M633 632c101 37 196 22 284-45-86-70-179-93-280-68-22 34-23 72-4 113Z" class="leaf"/>
+  <g transform="translate(500 440)">
+    <circle cx="0" cy="0" r="30" class="gold"/>
+    <ellipse cx="0" cy="-143" rx="67" ry="150" class="petal"/>
+    <ellipse cx="0" cy="143" rx="67" ry="150" class="petal"/>
+    <ellipse cx="-134" cy="-44" rx="67" ry="150" class="petal" transform="rotate(-72 -134 -44)"/>
+    <ellipse cx="134" cy="-44" rx="67" ry="150" class="petal" transform="rotate(72 134 -44)"/>
+    <ellipse cx="-91" cy="115" rx="67" ry="150" class="petal" transform="rotate(36 -91 115)"/>
+    <ellipse cx="91" cy="115" rx="67" ry="150" class="petal" transform="rotate(-36 91 115)"/>
+    <path d="M0-100v70M0 100V30M-99-32l67 22M99-32 32-10M-67 85l43-55M67 85 24 30" class="line"/>
+    <circle cx="-39" cy="-2" r="14" fill="#f3c14b"/>
+    <circle cx="39" cy="-2" r="14" fill="#f3c14b"/>
+    <circle cx="0" cy="34" r="14" fill="#f3c14b"/>
   </g>
+  <path d="M835 89l25 70 70 25-70 25-25 70-25-70-70-25 70-25 25-70Z" class="gold"/>
+  <path d="M153 75l15 42 42 15-42 15-15 42-15-42-42-15 42-15 15-42Z" class="gold"/>
+  <path d="M817 675l17 48 48 17-48 17-17 48-17-48-48-17 48-17 17-48Z" class="gold"/>
 </svg>
-

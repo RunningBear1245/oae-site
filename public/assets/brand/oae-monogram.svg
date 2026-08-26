@@ -1,20 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
-  <title id="title">OAE monogram badge</title>
-  <desc id="desc">Round Orlando Artisan Events OAE monogram badge with orange blossom accent.</desc>
-  <rect width="600" height="600" fill="#FAF7F2"/>
-  <circle cx="300" cy="300" r="244" fill="#0F3D2E"/>
-  <circle cx="300" cy="300" r="232" fill="none" stroke="#E89B3C" stroke-width="10"/>
-  <text x="300" y="300" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="198" font-weight="600" fill="#FAF7F2">OAE</text>
-  <text x="300" y="427" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="33" font-weight="700" letter-spacing="8" fill="#FAF7F2">ORLANDO</text>
-  <text x="300" y="470" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="5" fill="#FAF7F2">ARTISAN EVENTS</text>
-  <g transform="translate(414 348) scale(.52)">
-    <circle cx="0" cy="0" r="10" fill="#E89B3C"/>
-    <ellipse cx="0" cy="-30" rx="15" ry="29" fill="#FAF7F2"/>
-    <ellipse cx="0" cy="30" rx="15" ry="29" fill="#FAF7F2"/>
-    <ellipse cx="-28" cy="-8" rx="15" ry="29" fill="#FAF7F2" transform="rotate(-72 -28 -8)"/>
-    <ellipse cx="28" cy="-8" rx="15" ry="29" fill="#FAF7F2" transform="rotate(72 28 -8)"/>
-    <ellipse cx="-18" cy="23" rx="15" ry="29" fill="#FAF7F2" transform="rotate(36 -18 23)"/>
-    <ellipse cx="18" cy="23" rx="15" ry="29" fill="#FAF7F2" transform="rotate(-36 18 23)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">OAE monogram badge vector</title>
+  <desc id="desc">Compact OAE badge with gold arc and orange blossom accent.</desc>
+  <defs>
+    <style>
+      .forest{fill:#123d31}.gold{fill:#d79a29}.leaf{fill:#315f36}.leaf2{fill:#4c7b45}.petal{fill:#fff0d0}.serif{font-family:"Noto Serif",Georgia,serif;font-weight:800;letter-spacing:-.08em}
+    </style>
+  </defs>
+  <path d="M216 815C274 468 532 221 889 193" fill="none" stroke="#d79a29" stroke-width="30" stroke-linecap="round"/>
+  <path d="M988 282C877 115 670 72 489 157c176-34 338 14 444 161Z" class="gold" opacity=".88"/>
+  <text x="600" y="715" text-anchor="middle" class="serif" font-size="430" fill="#123d31">OAE</text>
+  <g transform="translate(395 820)">
+    <path d="M-118 30c-70-12-119-51-147-117 77-11 143 10 196 62-11 26-27 44-49 55Z" class="leaf"/>
+    <path d="M105 25c44-47 99-65 166-52-33 65-82 104-148 117-20-16-27-38-18-65Z" class="leaf2"/>
+    <g>
+      <circle cx="0" cy="0" r="18" class="gold"/>
+      <ellipse cx="0" cy="-62" rx="28" ry="66" class="petal"/>
+      <ellipse cx="0" cy="62" rx="28" ry="66" class="petal"/>
+      <ellipse cx="-58" cy="-19" rx="28" ry="66" class="petal" transform="rotate(-72 -58 -19)"/>
+      <ellipse cx="58" cy="-19" rx="28" ry="66" class="petal" transform="rotate(72 58 -19)"/>
+      <ellipse cx="-39" cy="50" rx="28" ry="66" class="petal" transform="rotate(36 -39 50)"/>
+      <ellipse cx="39" cy="50" rx="28" ry="66" class="petal" transform="rotate(-36 39 50)"/>
+      <circle cx="-17" cy="-2" r="7" fill="#f3c14b"/>
+      <circle cx="17" cy="-2" r="7" fill="#f3c14b"/>
+      <circle cx="0" cy="14" r="7" fill="#f3c14b"/>
+    </g>
   </g>
 </svg>
-

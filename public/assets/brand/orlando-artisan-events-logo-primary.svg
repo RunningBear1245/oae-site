@@ -1,27 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
-  <title id="title">Orlando Artisan Events primary logo</title>
-  <desc id="desc">Primary Orlando Artisan Events wordmark with orange and orange blossom accent.</desc>
-  <rect width="1100" height="360" fill="#FAF7F2"/>
-  <g transform="translate(62 54)">
-    <circle cx="88" cy="126" r="57" fill="#F15A24"/>
-    <circle cx="73" cy="108" r="10" fill="#E89B3C" opacity=".72"/>
-    <path d="M101 58c22-28 52-31 77-19-11 28-35 45-72 38z" fill="#1F6B4A"/>
-    <path d="M106 64c19-8 39-14 62-20" fill="none" stroke="#A7B88C" stroke-width="5" stroke-linecap="round"/>
-    <g transform="translate(138 130) scale(.68)">
-      <circle cx="0" cy="0" r="10" fill="#E89B3C"/>
-      <ellipse cx="0" cy="-30" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3"/>
-      <ellipse cx="0" cy="30" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3"/>
-      <ellipse cx="-28" cy="-8" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(-72 -28 -8)"/>
-      <ellipse cx="28" cy="-8" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(72 28 -8)"/>
-      <ellipse cx="-18" cy="23" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(36 -18 23)"/>
-      <ellipse cx="18" cy="23" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(-36 18 23)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 620" role="img" aria-labelledby="title desc">
+  <title id="title">OAE horizontal small lockup vector</title>
+  <desc id="desc">Compact horizontal Orlando Artisan Events lockup with blossom mark.</desc>
+  <defs>
+    <style>.forest{fill:#123d31}.leaf{fill:#315f36}.leaf2{fill:#4c7b45}.gold{fill:#d79a29}.orange{fill:#e88d22}.petal{fill:#fff0d0}.small{font-family:"Noto Sans",Arial,sans-serif;font-weight:700;letter-spacing:.22em}.serif{font-family:"Noto Serif",Georgia,serif;font-weight:750;letter-spacing:.025em}</style>
+  </defs>
+  <g transform="translate(90 82) scale(.58)">
+    <path d="M107 210C55 190 25 151 15 97c57-9 106 6 145 45-12 28-29 50-53 68Z" class="leaf"/>
+    <path d="M432 200c49-37 103-44 160-20-28 55-72 87-132 93-18-20-28-44-28-73Z" class="leaf"/>
+    <circle cx="380" cy="171" r="94" class="orange"/>
+    <g transform="translate(250 185)">
+      <circle cx="0" cy="0" r="18" class="gold"/>
+      <ellipse cx="0" cy="-64" rx="30" ry="70" class="petal"/>
+      <ellipse cx="0" cy="64" rx="30" ry="70" class="petal"/>
+      <ellipse cx="-61" cy="-20" rx="30" ry="70" class="petal" transform="rotate(-72 -61 -20)"/>
+      <ellipse cx="61" cy="-20" rx="30" ry="70" class="petal" transform="rotate(72 61 -20)"/>
+      <ellipse cx="-42" cy="52" rx="30" ry="70" class="petal" transform="rotate(36 -42 52)"/>
+      <ellipse cx="42" cy="52" rx="30" ry="70" class="petal" transform="rotate(-36 42 52)"/>
     </g>
   </g>
-  <g transform="translate(292 82)">
-    <text x="0" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="98" font-weight="600" fill="#0F3D2E">Orlando</text>
-    <text x="4" y="168" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="10" fill="#1F6B4A">ARTISAN EVENTS</text>
-    <line x1="6" y1="204" x2="588" y2="204" stroke="#E89B3C" stroke-width="6"/>
-    <text x="8" y="252" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4" fill="#0F0F0F">CURATED LOCAL EVENT ARTISANS</text>
-  </g>
+  <text x="440" y="270" class="serif" font-size="122" fill="#123d31">ORLANDO</text>
+  <text x="444" y="380" class="small" font-size="62" fill="#123d31">ARTISAN EVENTS</text>
+  <line x1="444" y1="430" x2="1296" y2="430" stroke="#d79a29" stroke-width="11" stroke-linecap="round"/>
 </svg>
-
