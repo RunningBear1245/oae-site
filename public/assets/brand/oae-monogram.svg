@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">OAE monogram badge</title>
+  <desc id="desc">Round Orlando Artisan Events OAE monogram badge with orange blossom accent.</desc>
+  <rect width="600" height="600" fill="#FAF7F2"/>
+  <circle cx="300" cy="300" r="244" fill="#0F3D2E"/>
+  <circle cx="300" cy="300" r="232" fill="none" stroke="#E89B3C" stroke-width="10"/>
+  <text x="300" y="300" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="198" font-weight="600" fill="#FAF7F2">OAE</text>
+  <text x="300" y="427" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="33" font-weight="700" letter-spacing="8" fill="#FAF7F2">ORLANDO</text>
+  <text x="300" y="470" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="5" fill="#FAF7F2">ARTISAN EVENTS</text>
+  <g transform="translate(414 348) scale(.52)">
+    <circle cx="0" cy="0" r="10" fill="#E89B3C"/>
+    <ellipse cx="0" cy="-30" rx="15" ry="29" fill="#FAF7F2"/>
+    <ellipse cx="0" cy="30" rx="15" ry="29" fill="#FAF7F2"/>
+    <ellipse cx="-28" cy="-8" rx="15" ry="29" fill="#FAF7F2" transform="rotate(-72 -28 -8)"/>
+    <ellipse cx="28" cy="-8" rx="15" ry="29" fill="#FAF7F2" transform="rotate(72 28 -8)"/>
+    <ellipse cx="-18" cy="23" rx="15" ry="29" fill="#FAF7F2" transform="rotate(36 -18 23)"/>
+    <ellipse cx="18" cy="23" rx="15" ry="29" fill="#FAF7F2" transform="rotate(-36 18 23)"/>
+  </g>
+</svg>
+

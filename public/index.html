@@ -9,8 +9,11 @@
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/">Orlando Artisan Events</a>
+      <a class="brand" href="/" aria-label="Orlando Artisan Events home">
+        <img src="/assets/brand/orlando-artisan-events-logo-primary.svg" alt="Orlando Artisan Events">
+      </a>
       <nav aria-label="Main navigation">
+        <a href="/" aria-current="page">Home</a>
         <a href="/request/">Request</a>
         <a href="/vendors/">Vendors</a>
         <a href="/parkday/">Parkday</a>
@@ -20,16 +23,27 @@
 
     <main>
       <section class="hero">
-        <div class="eyebrow">Central Florida event artisans</div>
-        <h1>One request. The best local artisans. A coordinated event estimate.</h1>
-        <p>
-          Orlando Artisan Events connects hosts with hand-selected independent bakers,
-          chefs, dessert makers, caterers, florists, and specialty vendors across
-          Central Florida.
-        </p>
-        <div class="actions">
-          <a class="button primary" href="/request/">Request an Event Quote</a>
-          <a class="button secondary" href="/vendors/">Join as an Artisan</a>
+        <div class="hero-copy">
+          <div class="eyebrow">Central Florida's curated event artisan network</div>
+          <h1>One request. Better local matches. More memorable celebrations.</h1>
+          <p>
+            Orlando Artisan Events connects hosts with hand-selected independent bakers,
+            chefs, dessert makers, caterers, florists, and specialty vendors across
+            Central Florida.
+          </p>
+          <div class="actions">
+            <a class="button primary" href="/request/">Request an Event Quote</a>
+            <a class="button secondary" href="/vendors/">Join as an Artisan</a>
+          </div>
+        </div>
+        <div class="hero-card" aria-label="Brand promise">
+          <img src="/assets/brand/orange-blossom-mark.svg" alt="">
+          <h2>Curated, local, and built around real vendor relationships.</h2>
+          <ul>
+            <li>Hand-selected Central Florida artisans</li>
+            <li>Simple intake before scattered quote chasing</li>
+            <li>Concierge-first workflow before marketplace complexity</li>
+          </ul>
         </div>
       </section>
 
@@ -78,6 +92,7 @@
     </main>
 
     <footer>
+      <img src="/assets/brand/orange-blossom-mark.svg" alt="">
       <p>Independent Central Florida artisan event network. Not affiliated with area theme parks or resorts.</p>
     </footer>
   </body>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Orlando Artisan Events orange blossom mark</title>
+  <desc id="desc">A simple orange with leaves and an orange blossom for Orlando Artisan Events.</desc>
+  <rect width="240" height="240" fill="none"/>
+  <circle cx="104" cy="128" r="54" fill="#F15A24"/>
+  <circle cx="88" cy="110" r="10" fill="#E89B3C" opacity=".72"/>
+  <path d="M121 64c22-28 52-31 77-19-11 28-35 45-72 38z" fill="#1F6B4A"/>
+  <path d="M126 70c19-8 39-14 62-20" fill="none" stroke="#A7B88C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M105 61c-7-32 7-55 31-70 17 26 13 54-16 79z" fill="#0F3D2E" transform="translate(0 28)"/>
+  <g transform="translate(146 130)">
+    <circle cx="0" cy="0" r="10" fill="#E89B3C"/>
+    <ellipse cx="0" cy="-30" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3"/>
+    <ellipse cx="0" cy="30" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3"/>
+    <ellipse cx="-28" cy="-8" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(-72 -28 -8)"/>
+    <ellipse cx="28" cy="-8" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(72 28 -8)"/>
+    <ellipse cx="-18" cy="23" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(36 -18 23)"/>
+    <ellipse cx="18" cy="23" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(-36 18 23)"/>
+  </g>
+</svg>
+

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+  <title id="title">Orlando Artisan Events primary logo</title>
+  <desc id="desc">Primary Orlando Artisan Events wordmark with orange and orange blossom accent.</desc>
+  <rect width="1100" height="360" fill="#FAF7F2"/>
+  <g transform="translate(62 54)">
+    <circle cx="88" cy="126" r="57" fill="#F15A24"/>
+    <circle cx="73" cy="108" r="10" fill="#E89B3C" opacity=".72"/>
+    <path d="M101 58c22-28 52-31 77-19-11 28-35 45-72 38z" fill="#1F6B4A"/>
+    <path d="M106 64c19-8 39-14 62-20" fill="none" stroke="#A7B88C" stroke-width="5" stroke-linecap="round"/>
+    <g transform="translate(138 130) scale(.68)">
+      <circle cx="0" cy="0" r="10" fill="#E89B3C"/>
+      <ellipse cx="0" cy="-30" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3"/>
+      <ellipse cx="0" cy="30" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3"/>
+      <ellipse cx="-28" cy="-8" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(-72 -28 -8)"/>
+      <ellipse cx="28" cy="-8" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(72 28 -8)"/>
+      <ellipse cx="-18" cy="23" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(36 -18 23)"/>
+      <ellipse cx="18" cy="23" rx="15" ry="29" fill="#FAF7F2" stroke="#E7E1D6" stroke-width="3" transform="rotate(-36 18 23)"/>
+    </g>
+  </g>
+  <g transform="translate(292 82)">
+    <text x="0" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="98" font-weight="600" fill="#0F3D2E">Orlando</text>
+    <text x="4" y="168" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="10" fill="#1F6B4A">ARTISAN EVENTS</text>
+    <line x1="6" y1="204" x2="588" y2="204" stroke="#E89B3C" stroke-width="6"/>
+    <text x="8" y="252" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4" fill="#0F0F0F">CURATED LOCAL EVENT ARTISANS</text>
+  </g>
+</svg>
+
