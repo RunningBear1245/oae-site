@@ -255,6 +255,11 @@ h3 {
   color: var(--muted);
 }
 
+.section-intro {
+  max-width: 820px;
+  margin-bottom: 30px;
+}
+
 .check-list {
   display: grid;
   gap: 12px;
@@ -292,7 +297,7 @@ h3 {
 
 .three-column {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
 }
 
@@ -311,6 +316,46 @@ article {
 
 article p {
   color: var(--muted);
+}
+
+.artist-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.artist-card {
+  display: grid;
+  gap: 12px;
+}
+
+.artist-card a {
+  color: var(--deep-green);
+  font-weight: 800;
+  text-decoration-color: var(--citrus-gold);
+  text-underline-offset: 4px;
+}
+
+.profile-mark {
+  align-items: center;
+  background: var(--surface-strong);
+  border: 1px solid var(--light-stone);
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  min-height: 150px;
+}
+
+.profile-mark img {
+  max-width: 112px;
+}
+
+.category-pill {
+  color: #a95c18;
+  font-size: 0.78rem;
+  font-weight: 850;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 
 .page-hero {
@@ -407,7 +452,8 @@ footer p {
   .hero,
   .split,
   .three-column,
-  .form-page {
+  .form-page,
+  .artist-grid {
     grid-template-columns: 1fr;
   }
 
