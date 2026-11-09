@@ -2,7 +2,7 @@
   <title id="title">Orlando Artisan Events</title>
   <desc id="desc">Light signature lockup for dark backgrounds.</desc>
   <defs>
-    <style>.light{fill:#fff7e8}.gold{fill:#d79a29}.leaf{fill:#f4d48c}.leaf2{fill:#fff0d0}.petal{fill:#fff7e8}.small{font-family:"Noto Sans",Arial,sans-serif;font-weight:700;letter-spacing:.22em}.serif{font-family:"Noto Serif",Georgia,serif;font-weight:760;letter-spacing:.03em}</style>
+    <style>.light{fill:#fff7e8}.gold{fill:#d79a29}.leaf{fill:#315f36}.leaf2{fill:#4c7b45}.petal{fill:#fff7e8;stroke:#e88d22;stroke-width:8}.blossom-center{fill:#e88d22}.small{font-family:"Noto Sans",Arial,sans-serif;font-weight:700;letter-spacing:.22em}.serif{font-family:"Noto Serif",Georgia,serif;font-weight:760;letter-spacing:.03em}</style>
   </defs>
   <g transform="translate(105 103) scale(.47)">
     <path d="M684 134c0-48-39-87-87-87s-87 39-87 87h174Z" class="gold"/>
@@ -12,7 +12,7 @@
     <g transform="translate(875 442)">
       <path d="M-110 6c-72-8-127-45-164-111 79-15 149 3 207 53-7 24-22 44-43 58Z" class="leaf"/>
       <path d="M112 11c39-54 93-78 163-72-25 72-72 116-141 133-22-12-30-33-22-61Z" class="leaf2"/>
-      <circle cx="0" cy="0" r="17" class="gold"/>
+      <circle cx="0" cy="0" r="17" class="blossom-center"/>
       <ellipse cx="0" cy="-58" rx="27" ry="62" class="petal"/>
       <ellipse cx="0" cy="58" rx="27" ry="62" class="petal"/>
       <ellipse cx="-55" cy="-18" rx="27" ry="62" class="petal" transform="rotate(-72 -55 -18)"/>
