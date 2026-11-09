@@ -8,6 +8,22 @@ Static MVP site for the Orlando Artisan Events ecosystem.
 - Build command: leave blank for Pages, or `npx wrangler deploy` for Workers static assets
 - Build output directory: `public`
 - Production branch: `main`
+- Pages project: `orlando-artisan-events`
+- Intended production alias: `https://orlando-artisan-events.pages.dev`
+
+Manual Pages deployment:
+
+```bash
+npx wrangler@4.125.0 pages deploy public \
+  --project-name orlando-artisan-events \
+  --branch main
+```
+
+As of 2026-11-09, Cloudflare records the Pages deployment as successful but both
+the production alias and immutable deployment hostname return Cloudflare 522. The
+legacy Worker remains online at
+`https://billowing-shadow-bc81.tannis07.workers.dev` while this account-level
+Pages routing fault is unresolved.
 
 This repo includes `wrangler.jsonc` so Cloudflare Workers static asset deployments
 serve only the `public/` directory. The production Worker is
