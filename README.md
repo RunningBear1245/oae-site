@@ -15,7 +15,8 @@ serve only the `public/` directory. Do not deploy from the repository root.
 ## Routes
 
 - `/` - Orlando Artisan Events
-- `/request/` - customer quote request placeholder
-- `/vendors/` - vendor interest placeholder
+- `/request/` - customer quote request form
+- `/vendors/` - vendor interest form
+- `/artists/` - approved artisan roster and founding feature slots
 - `/parkday/` - Parkday Provisions
 - `/chefs-table/` - Orlando Chefs Table
