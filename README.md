@@ -19,11 +19,10 @@ npx wrangler@4.125.0 pages deploy public \
   --branch main
 ```
 
-As of 2026-11-09, Cloudflare records the Pages deployment as successful but both
-the production alias and immutable deployment hostname return Cloudflare 522. The
+The production site is live at `https://orlando-artisan-events.pages.dev`. The
 legacy Worker remains online at
-`https://billowing-shadow-bc81.tannis07.workers.dev` while this account-level
-Pages routing fault is unresolved.
+`https://billowing-shadow-bc81.tannis07.workers.dev` with the older MVP and is no
+longer the production target.
 
 This repo includes `wrangler.jsonc` so Cloudflare Workers static asset deployments
 serve only the `public/` directory. The production Worker is
