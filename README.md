@@ -33,7 +33,7 @@ deploy from the repository root.
 
 - `/` - Orlando Artisan Events
 - `/request/` - customer quote request form
-- `/vendors/` - vendor interest form
+- `/vendors/` - founding-artisan value proposition, pilot economics, onboarding process, and interest form
 - `/artists/` - approved artisan roster and founding feature slots
 - `/parkday/` - Parkday Provisions
 - `/chefs-table/` - Orlando Chefs Table

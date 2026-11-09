@@ -777,6 +777,248 @@ footer,
   color: var(--muted);
 }
 
+.vendor-value-hero {
+  background:
+    radial-gradient(circle at 86% 18%, rgba(232, 141, 34, 0.34), transparent 27%),
+    linear-gradient(128deg, rgba(18, 61, 49, 0.98), rgba(49, 95, 54, 0.9)),
+    url("https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1800&q=80") center/cover;
+}
+
+.vendor-value-hero > div {
+  max-width: 1040px;
+}
+
+.vendor-value-hero h1 {
+  max-width: 980px;
+}
+
+.vendor-value-hero .button.secondary {
+  border-color: rgba(255, 247, 232, 0.76);
+  color: #fff7e8;
+}
+
+.vendor-promise,
+.lead-proof,
+.profile-proof,
+.economics,
+.founding-cta {
+  padding: clamp(54px, 8vw, 104px) clamp(20px, 5vw, 80px);
+}
+
+.vendor-promise,
+.economics {
+  margin: 0 auto;
+  max-width: 1320px;
+}
+
+.vendor-promise .section-intro,
+.economics .section-intro {
+  max-width: 920px;
+}
+
+.vendor-benefits,
+.commission-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.vendor-benefits article,
+.commission-grid article {
+  display: grid;
+  align-content: start;
+}
+
+.benefit-number {
+  color: var(--florida-orange);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  margin-bottom: 28px;
+}
+
+.lead-proof {
+  align-items: center;
+  background: var(--surface-strong);
+  display: grid;
+  gap: clamp(28px, 6vw, 78px);
+  grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+}
+
+.lead-proof-copy {
+  margin-left: auto;
+  max-width: 600px;
+}
+
+.sample-lead {
+  background: var(--deep-green);
+  border-color: rgba(255, 247, 232, 0.18);
+  box-shadow: var(--shadow);
+  color: #fff7e8;
+  max-width: 620px;
+  padding: clamp(26px, 4vw, 42px);
+}
+
+.sample-lead h3 {
+  color: #fff7e8;
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  margin: 8px 0 22px;
+}
+
+.sample-label {
+  color: #f4d48c;
+  font-size: 0.74rem;
+  font-weight: 850;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.sample-lead dl {
+  margin: 0;
+}
+
+.sample-lead dl div {
+  border-top: 1px solid rgba(255, 247, 232, 0.2);
+  display: grid;
+  gap: 16px;
+  grid-template-columns: 130px 1fr;
+  padding: 11px 0;
+}
+
+.sample-lead dt {
+  color: rgba(255, 247, 232, 0.66);
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.sample-lead dd {
+  margin: 0;
+}
+
+.sample-note {
+  color: rgba(255, 247, 232, 0.62);
+  font-size: 0.8rem;
+  margin: 20px 0 0;
+}
+
+.profile-proof {
+  align-items: center;
+  display: grid;
+  gap: clamp(30px, 6vw, 86px);
+  grid-template-columns: minmax(280px, 0.8fr) minmax(0, 1.2fr);
+  margin: 0 auto;
+  max-width: 1220px;
+}
+
+.profile-proof > div:last-child {
+  max-width: 720px;
+}
+
+.profile-example {
+  background:
+    radial-gradient(circle at 50% 30%, rgba(244, 212, 140, 0.48), transparent 34%),
+    linear-gradient(145deg, var(--surface-strong), var(--soft-sage));
+  border: 1px solid var(--light-stone);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  padding: clamp(28px, 5vw, 56px);
+  text-align: center;
+}
+
+.profile-example img {
+  margin: 0 auto 26px;
+  max-width: 190px;
+}
+
+.profile-example span {
+  color: #a95c18;
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 850;
+  letter-spacing: 0.12em;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+
+.profile-example p {
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
+.vendor-process {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.economics {
+  background: var(--warm-white);
+}
+
+.commission-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.commission-grid article {
+  border-top: 7px solid var(--citrus-gold);
+}
+
+.commission-rate {
+  color: var(--florida-orange);
+  font-family: var(--headline);
+  font-size: clamp(2.5rem, 5vw, 4.6rem);
+  font-weight: 800;
+  line-height: 1;
+  margin-bottom: 18px;
+}
+
+.economics-note {
+  background: var(--surface-strong);
+  border-left: 6px solid var(--palm-green);
+  display: grid;
+  gap: 8px;
+  margin-top: 22px;
+  padding: 20px 22px;
+}
+
+.economics-note strong {
+  color: var(--deep-green);
+}
+
+.economics-note span {
+  color: var(--muted);
+}
+
+.founding-cta {
+  background: var(--deep-green);
+  color: #fff7e8;
+}
+
+.founding-cta > div {
+  display: grid;
+  justify-items: center;
+  margin: 0 auto;
+  max-width: 880px;
+  text-align: center;
+}
+
+.founding-cta img {
+  margin-bottom: 30px;
+  max-width: 380px;
+}
+
+.founding-cta h2 {
+  color: #fff7e8;
+}
+
+.founding-cta p {
+  color: rgba(255, 247, 232, 0.78);
+  max-width: 700px;
+}
+
+.founding-cta .eyebrow {
+  color: #f4d48c;
+}
+
 footer {
   align-items: center;
   background: var(--surface-strong);
@@ -821,8 +1063,21 @@ footer p {
   .image-story,
   .process-list,
   .artist-preview,
-  .hero-meta {
+  .hero-meta,
+  .vendor-benefits,
+  .lead-proof,
+  .profile-proof,
+  .commission-grid {
     grid-template-columns: 1fr;
+  }
+
+  .vendor-process {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lead-proof-copy {
+    margin-left: 0;
+    max-width: none;
   }
 
   .hero {
@@ -862,5 +1117,14 @@ footer p {
 
   .hero-logo {
     max-width: min(340px, 86vw);
+  }
+
+  .vendor-process {
+    grid-template-columns: 1fr;
+  }
+
+  .sample-lead dl div {
+    gap: 4px;
+    grid-template-columns: 1fr;
   }
 }
