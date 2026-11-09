@@ -1,25 +1,243 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 650" role="img" aria-labelledby="title desc">
-  <title id="title">Orlando Artisan Events</title>
-  <desc id="desc">Light signature lockup for dark backgrounds.</desc>
-  <defs>
-    <style>.light{fill:#fff7e8}.gold{fill:#d79a29}.leaf{fill:#315f36}.leaf2{fill:#4c7b45}.petal{fill:#fff7e8;stroke:#e88d22;stroke-width:8}.blossom-center{fill:#e88d22}.small{font-family:"Noto Sans",Arial,sans-serif;font-weight:700;letter-spacing:.22em}.serif{font-family:"Noto Serif",Georgia,serif;font-weight:760;letter-spacing:.03em}</style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1900 650"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="orlando-artisan-events-logo-hero.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.63394737"
+     inkscape:cx="896.76214"
+     inkscape:cy="265.00623"
+     inkscape:window-width="2560"
+     inkscape:window-height="1312"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <title
+     id="title">Orlando Artisan Events</title>
+  <desc
+     id="desc">Light signature lockup for dark backgrounds.</desc>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient28"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffe4b6;stop-opacity:1;"
+         offset="0"
+         id="stop29" />
+      <stop
+         style="stop-color:#ffc839;stop-opacity:1;"
+         offset="1"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient21"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fff7e8;stop-opacity:1;"
+         offset="0"
+         id="stop21" />
+      <stop
+         style="stop-color:#ffefcf;stop-opacity:1;"
+         offset="1"
+         id="stop22" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fff0d4;stop-opacity:1;"
+         offset="0"
+         id="stop19" />
+      <stop
+         style="stop-color:#ffe7b9;stop-opacity:1;"
+         offset="1"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff953d;stop-opacity:1;"
+         offset="0"
+         id="stop17" />
+      <stop
+         style="stop-color:#ff7e18;stop-opacity:1;"
+         offset="1"
+         id="stop18" />
+    </linearGradient>
+    <style
+       id="style1">.light{fill:#fff7e8}.gold{fill:#d79a29}.leaf{fill:#315f36}.leaf2{fill:#4c7b45}.petal{fill:#fff7e8;stroke:#e88d22;stroke-width:8}.blossom-center{fill:#e88d22}.small{font-family:&quot;Noto Sans&quot;,Arial,sans-serif;font-weight:700;letter-spacing:.22em}.serif{font-family:&quot;Noto Serif&quot;,Georgia,serif;font-weight:760;letter-spacing:.03em}</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17"
+       id="linearGradient18"
+       x1="-64.865326"
+       y1="33.994133"
+       x2="110.51063"
+       y2="43.185196"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19"
+       id="linearGradient20"
+       x1="95.168022"
+       y1="471.78629"
+       x2="1074.832"
+       y2="662.21368"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21"
+       id="linearGradient22"
+       x1="142"
+       y1="349.5"
+       x2="1026"
+       y2="349.5"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28"
+       id="radialGradient30"
+       cx="597"
+       cy="90.5"
+       fx="597"
+       fy="90.5"
+       r="87"
+       gradientTransform="matrix(1,0,0,0.5,0,45.25)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
   </defs>
-  <g transform="translate(105 103) scale(.47)">
-    <path d="M684 134c0-48-39-87-87-87s-87 39-87 87h174Z" class="gold"/>
-    <path d="M142 560h884c-15-235-209-421-442-421S157 325 142 560Z" class="light"/>
-    <rect x="86" y="538" width="998" height="58" rx="29" class="light"/>
-    <path d="M222 635c156 21 285 75 389 163 90-95 225-146 398-153-186 77-313 145-382 204-68-73-201-144-405-214Z" class="light"/>
-    <g transform="translate(875 442)">
-      <path d="M-110 6c-72-8-127-45-164-111 79-15 149 3 207 53-7 24-22 44-43 58Z" class="leaf"/>
-      <path d="M112 11c39-54 93-78 163-72-25 72-72 116-141 133-22-12-30-33-22-61Z" class="leaf2"/>
-      <circle cx="0" cy="0" r="17" class="blossom-center"/>
-      <ellipse cx="0" cy="-58" rx="27" ry="62" class="petal"/>
-      <ellipse cx="0" cy="58" rx="27" ry="62" class="petal"/>
-      <ellipse cx="-55" cy="-18" rx="27" ry="62" class="petal" transform="rotate(-72 -55 -18)"/>
-      <ellipse cx="55" cy="-18" rx="27" ry="62" class="petal" transform="rotate(72 55 -18)"/>
+  <g
+     transform="translate(105 103) scale(.47)"
+     id="g9"
+     inkscape:label="IconLogo">
+    <path
+       d="M684 134c0-48-39-87-87-87s-87 39-87 87h174Z"
+       class="gold"
+       id="path1"
+       style="fill:url(#radialGradient30);fill-rule:nonzero" />
+    <path
+       d="M142 560h884c-15-235-209-421-442-421S157 325 142 560Z"
+       class="light"
+       id="path2"
+       style="fill:url(#linearGradient22)" />
+    <rect
+       x="86"
+       y="538"
+       width="998"
+       height="58"
+       rx="29"
+       class="light"
+       id="rect2"
+       style="fill:url(#linearGradient20);fill-opacity:1" />
+    <path
+       d="m 228.71242,614.86275 c 156,21 285,75 389,163 90,-95 225,-146 397.99998,-153 -185.99998,77 -312.99998,145 -381.99998,204 -68,-73 -201,-144 -405,-214 z"
+       class="light"
+       id="path3"
+       style="fill:#f7f7f7;fill-opacity:1" />
+    <g
+       transform="translate(875,442)"
+       id="g8"
+       style="display:inline"
+       inkscape:label="OrangeElement">
+      <path
+         d="M -6.0386022,78.158484 C -111.89254,66.227869 -192.75318,11.048775 -247.15033,-87.378797 -131.00505,-109.7487 -28.091504,-82.904816 57.179717,-8.3384738 46.888362,27.453371 24.835461,57.279908 -6.0386022,78.158484 Z"
+         class="leaf"
+         id="path4"
+         style="stroke-width:1.48072" />
+      <path
+         d="M -13.588914,81.515005 C -96.680433,99.460551 -133.63129,133.40323 -225.97685,86.946092 -179.00555,10.972854 -71.148713,-35.375176 12.272672,-0.42012565 13.573163,29.433495 4.4636519,57.751693 -13.588914,81.515005 Z"
+         class="leaf"
+         id="path4-7"
+         style="fill:#3f713b;fill-opacity:1;stroke-width:1.18471"
+         sodipodi:nodetypes="cccc" />
+      <path
+         d="M -13.901681,-11.945869 C 65.685538,-75.187713 150.61883,-86.807906 242.24985,-46.356804 172.62861,50.106287 87.204354,94.791955 -14.520534,89.196091 -38.285663,61.352978 -38.648736,26.341961 -13.901681,-11.945869 Z"
+         class="leaf2"
+         id="path5"
+         style="stroke-width:1.49857" />
+      <ellipse
+         style="fill:url(#linearGradient18);stroke-width:32.5747;stroke-miterlimit:4.3"
+         id="path11"
+         cx="22.822655"
+         cy="38.589664"
+         rx="87.808319"
+         ry="95.52121"
+         inkscape:label="orange" />
+      <ellipse
+         style="fill:#ffa359;fill-opacity:1;stroke-width:2.43163;stroke-miterlimit:4.3"
+         id="path18"
+         cx="501.30386"
+         cy="302.7583"
+         rx="2.9115155"
+         ry="1.4953927"
+         transform="matrix(2.1276596,0,0,2.1276596,-1098.4043,-661.14894)" />
+      <ellipse
+         style="fill:#ffa359;fill-opacity:1;stroke-width:2.43163;stroke-miterlimit:4.3"
+         id="path18-9"
+         cx="504.39713"
+         cy="310.08182"
+         rx="2.9115155"
+         ry="1.4953927"
+         transform="matrix(2.1276596,0,0,2.1276596,-1098.4043,-661.14894)" />
+      <ellipse
+         style="fill:#ffa359;fill-opacity:1;stroke-width:2.43163;stroke-miterlimit:4.3"
+         id="path18-7"
+         cx="512.72876"
+         cy="304.02908"
+         rx="2.9115155"
+         ry="1.4953927"
+         transform="matrix(2.1276596,0,0,2.1276596,-1098.4043,-661.14894)" />
+      <ellipse
+         style="fill:#ffa359;fill-opacity:1;stroke-width:2.43163;stroke-miterlimit:4.3"
+         id="path18-3"
+         cx="512.95953"
+         cy="313.87033"
+         rx="2.9115155"
+         ry="1.4953927"
+         transform="matrix(2.1276596,0,0,2.1276596,-1098.4043,-661.14894)" />
     </g>
   </g>
-  <text x="715" y="265" class="serif" font-size="134" fill="#fff7e8">ORLANDO</text>
-  <text x="720" y="385" class="small" font-size="66" fill="#fff7e8">ARTISAN EVENTS</text>
-  <text x="724" y="467" font-family="Noto Sans, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing=".08em" fill="#f4d48c">CURATED CENTRAL FLORIDA EVENT ARTISANS</text>
+  <text
+     x="715"
+     y="265"
+     class="serif"
+     font-size="134"
+     fill="#fff7e8"
+     id="text9">ORLANDO</text>
+  <text
+     x="720"
+     y="385"
+     class="small"
+     font-size="66"
+     fill="#fff7e8"
+     id="text10">ARTISAN EVENTS</text>
+  <text
+     x="724"
+     y="467"
+     font-family="Noto Sans, Arial, sans-serif"
+     font-size="34"
+     font-weight="600"
+     letter-spacing=".08em"
+     fill="#f4d48c"
+     id="text11">CURATED CENTRAL FLORIDA EVENT ARTISANS</text>
 </svg>
