@@ -10,7 +10,9 @@ Static MVP site for the Orlando Artisan Events ecosystem.
 - Production branch: `main`
 
 This repo includes `wrangler.jsonc` so Cloudflare Workers static asset deployments
-serve only the `public/` directory. Do not deploy from the repository root.
+serve only the `public/` directory. The production Worker is
+`billowing-shadow-bc81`; do not rename it without also migrating its route. Do not
+deploy from the repository root.
 
 ## Routes
 
